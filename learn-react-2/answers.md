@@ -59,7 +59,7 @@ function main(){
         console.log("我来自 foo")
     }
     console.log(foo)     
-    var foo = 10
+    foo = 10
     console.log(foo)      
     console.log(foo)      
  }
